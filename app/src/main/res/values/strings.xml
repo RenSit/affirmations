@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Аффирмации</string>
+    <string name="my_affirmations">Мои аффирмации</string>
+    <string name="categories">Категории</string>
+    <string name="settings">Настройки</string>
+    <string name="hide_affirmation">Скрыть</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
